@@ -246,6 +246,9 @@ nav {
 
 #input-sec-bottom {
     background-image: url(assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     padding: 60px 40px;
     border-radius: 12px;
 }
