@@ -10,7 +10,7 @@ A simple responsive website built to showcase my fundamental skills in **HTML** 
 
 ## 🌐 Live
 
-[Click here to see live website](https://thegetosuguru.github.io/devtobe)
+[Click here to see live website](https://refatalhasankaif.github.io/devtobe/)
 
 ## 🖼️ Preview
 
